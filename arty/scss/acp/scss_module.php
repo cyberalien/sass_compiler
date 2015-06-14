@@ -149,7 +149,8 @@ class scss_module
 	protected function compile($style, $path)
 	{
 		// Test if stylesheet.css is writable
-		if (!@is_writable($path . 'stylesheet.css'))
+		$test = @file_exists($path . 'stylesheet.css') ? $path . 'stylesheet.css' : $path;
+		if (!@is_writable($test))
 		{
 			$this->compilation_error($style, $this->user->lang['STYLESHEET_ISNOT_WRITABLE']);
 			return false;
