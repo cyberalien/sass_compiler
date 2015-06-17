@@ -1,6 +1,6 @@
 # Sass compiler for phpBB 3.1
 
-This is an extension for phpBB 3.1 that adds ability to compile .scss files from forum's admin control panel.
+This is an extension for phpBB 3.1 that adds ability to compile .scss files from forum's admin control panel. It works without installing any additional software.
 
 # Installation
 
@@ -14,6 +14,7 @@ Click it. You will see list of phpBB 3.1 styles that use Sass and links to (re)c
 # Requirements
 
 - phpBB 3.1.x
+- PHP 5.3.6 or newer
 - PHP with CURL and JSON extensions enabled
 
 # License
