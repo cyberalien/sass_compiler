@@ -52,7 +52,6 @@ $lang = array_merge($lang, array(
 	'SCSS_STATUS_RECOMPILE'		=> 'Les fichiers SCSS ont été récemment mis à jour. Une recompilation pourrait être nécessaire.',
 
 	// Compilation notices
-	'SCSS_MESSAGE_TITLE'		=> 'Compilation du thème : ',
 	'SCSS_COMPILED'				=> 'Le thème a été compilé avec succès.',
 
 	// Error messages
