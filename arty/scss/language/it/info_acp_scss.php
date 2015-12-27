@@ -55,7 +55,7 @@ $lang = array_merge($lang, array(
 	// Error messages
 	'ACP_SCSS_MISSING_CURL'		=> 'Supporto CURL non disponibile nella propria installazione di PHP. Questo modulo non può funzionare senza supporto a CURL.',
 	'ACP_SCSS_MISSING_JSON'		=> 'Supporto JSON non disponibile nella propria installazione di PHP. Questo modulo non può funzionare senza supporto a JSON.',
-	'STYLESHEET_ISNOT_WRITABLE'	=> 'File <samp>theme/stylesheet.css</samp> non accessibile in scrittura, controllare i permessi del file..',
+	'STYLESHEET_ISNOT_WRITABLE'	=> 'File <samp>theme/stylesheet.css</samp> non accessibile in scrittura, controllare i permessi del file.',
 	'MISSING_STYLESHEET_SCSS'	=> 'Impossibile leggere il file <samp>theme/stylesheet.scss</samp>',
 	'NOTHING_TO_COMPILE'		=> 'Non c’è nulla da compilare.',
 	'SERVER_RETURNED_EMPTY_RESULT'	=> 'Il compilatore SASS ha restituito dati vuoti.',
