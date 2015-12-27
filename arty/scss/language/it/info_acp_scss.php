@@ -43,8 +43,8 @@ $lang = array_merge($lang, array(
 	'ACP_SCSS_COMPILER'			=> 'Compilatore stili',
 
 	// Styles list data
-	'COMPILE_THEME'				=> 'Compila stili',
-	'RECOMPILE_THEME'			=> 'Ricompila stili',
+	'COMPILE_THEME'				=> 'Compila stile',
+	'RECOMPILE_THEME'			=> 'Ricompila stile',
 	'SCSS_STATUS_OK'			=> 'Foglio di stile aggiornato',
 	'SCSS_STATUS_MISSING_CSS'	=> 'File <samp>stylesheet.css</samp> mancante! Ricompilazione necessaria.',
 	'SCSS_STATUS_RECOMPILE'		=> 'File SCSS aggiornati di recente, potrebbe essere necessaria la ricompilazione.',
