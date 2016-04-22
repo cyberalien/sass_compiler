@@ -3,8 +3,8 @@
     "type": "phpbb-extension",
     "description": "SCSS compiler",
     "homepage": "http://www.artodia.com",
-    "version": "1.0.0",
-    "time": "2015-06-14",
+    "version": "1.0.1",
+    "time": "2016-04-22",
     "keywords": ["phpbb","extension","scss"],
     "license": "GPL-2.0",
     "authors": [

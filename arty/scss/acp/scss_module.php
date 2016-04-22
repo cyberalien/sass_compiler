@@ -58,6 +58,7 @@ class scss_module
 		$this->php_ext = $phpEx;
 
 		$user->add_lang(array('acp/styles'));
+		$user->add_lang_ext('arty/scss', array('acp_scss'));
 
 		$this->styles_path = $this->phpbb_root_path . $this->styles_path_absolute . '/';
 
