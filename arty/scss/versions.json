@@ -4,6 +4,15 @@
 			"current": "1.0.1",
 			"announcement": "https://www.artodia.com/threads/sass-compiler-for-phpbb-3-1.2186/",
 			"download": "https://www.artodia.com/downloads/phpbb31/sass_compiler.zip",
+			"eol": null,
+			"security": false
+		}
+	},
+	"unstable": {
+		"1.0.1": {
+			"current": "1.0.1",
+			"announcement": "https://www.artodia.com/threads/sass-compiler-for-phpbb-3-1.2186/",
+			"download": "https://www.artodia.com/downloads/phpbb31/sass_compiler.zip",
 			"eol": null, 
 			"security": false
 		}
